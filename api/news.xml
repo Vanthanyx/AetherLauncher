@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+<channel>
+  <title>Aether Launcher</title>
+  <link>https://aethermc.net/</link>
+  <item>
+    <title>Launcher Version 0.2.0</title>
+    <link>https://aethermc.net/</link>
+    <content:encoded>Newest Version Of The Aether Launcher</content:encoded>
+    <pubDate>Sun, 10 Jul 2022 11:45:00 GMT</pubDate>
+    <dc:creator>Vanthanyx</dc:creator>
+  </item>
+</channel>
+
+</rss>
