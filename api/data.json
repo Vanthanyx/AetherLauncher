@@ -1,0 +1,90 @@
+{
+    "version": "0.1.0-beta",
+    "rss": "<RSS LINK>",
+    "discord": {
+       "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+       "smallImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+       "smallImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+    },
+    "servers": [
+       {
+          "id": "lunar-1.18.2",
+          "name": "Lunar (1.18.2)",
+          "description": "Lunar Running Minecraft 1.18.2 (Fabric v???)",
+          "icon": "https://raw.githubusercontent.com/Vanthanyx/AetherLauncher/main/Logo.png",
+          "version": "1.0.0",
+          "address": "51.222.147.158:25589",
+          "minecraftVersion": "1.18.2",
+          "discord": {
+             "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+             "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+             "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+          },
+          "mainServer": false,
+          "autoconnect": false,
+          "modules": [
+             {
+                "id": "",
+                "name": "",
+                "type": "",
+                "artifact": {
+                   "url": ""
+                }
+             }
+          ]
+       },
+       {
+          "id": "terra-1.19",
+          "name": "Terra (1.19)",
+          "description": "Terra Running Minecraft 1.19 (Paper v???)",
+          "icon": "https://raw.githubusercontent.com/Vanthanyx/AetherLauncher/main/Logo.png",
+          "version": "1.0.0",
+          "address": "localhost:25565",
+          "minecraftVersion": "1.19",
+          "discord": {
+             "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+             "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+             "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+          },
+          "mainServer": false,
+          "autoconnect": false,
+          "modules": [
+             {
+                "id": "",
+                "name": "",
+                "type": "",
+                "artifact": {
+                   "url": ""
+                }
+             }
+          ]
+       },
+       {
+          "id": "northstar-1.19",
+          "name": "NorthStar (1.19)",
+          "description": "NorthStar Running Minecraft 1.19 (Paper v???)",
+          "icon": "https://raw.githubusercontent.com/Vanthanyx/AetherLauncher/main/Logo.png",
+          "version": "1.0.0",
+          "address": "51.222.225.96:25579",
+          "minecraftVersion": "1.19",
+          "discord": {
+             "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+             "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+             "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+          },
+          "mainServer": false,
+          "autoconnect": false,
+          "modules": [
+             {
+                "id": "",
+                "name": "",
+                "type": "",
+                "artifact": {
+                   "url": ""
+                }
+             }
+          ]
+       }
+    ]
+ }
+ 
