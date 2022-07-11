@@ -1,5 +1,5 @@
 {
-    "version": "0.1.0-beta",
+    "version": "0.2.1-beta",
     "rss": "https://github.com/Vanthanyx/AetherLauncher/raw/main/api/news.xml",
     "discord": {
        "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",

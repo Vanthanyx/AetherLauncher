@@ -1,6 +1,6 @@
 {
   "name": "aetherlauncher",
-  "version": "0.2.0-beta",
+  "version": "0.2.1-beta",
   "productName": "Aether Launcher",
   "description": "Modded Minecraft Launcher",
   "main": "index.js",
